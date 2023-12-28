@@ -70,3 +70,5 @@ Your support will encourage me to continue refining and expanding Messenger Pro 
 - [LSPosed Team](https://github.com/LSPosed/LSPosed) : for their amazing LSPosed framework along with LSPatch
 
 - [NeonOrbit](https://github.com/NeonOrbit) : for developing [Dexplore](https://github.com/NeonOrbit/Dexplore), [MRVPatcher](https://github.com/NeonOrbit/MRVPatchManager), and for his outstanding support
+
+- [Loukious](https://github.com/Loukious) : for updating the mod
