@@ -1,10 +1,13 @@
 ### 
 
-# Messenger Pro
+<h1 align="center">Messenger Pro</h1>
+<p align="center">A powerful mod for Facebook Messenger 💬, 
 
-A powerful mod for **Facebook Messenger** 💬, providing a comprehensive set of features that take your messaging experience to the next level 🚀
+<p align="center">providing a comprehensive set of features that take your messaging experience to the next level 🚀
 
-![icon](https://raw.githubusercontent.com/Mino260806/MessengerPro/master/app/src/main/ic_launcher-playstore.png)
+<p align="center">
+  <img width="260" height="260" src="https://i.ibb.co/NtLmhrC/ic-launcher-playstore.png">
+</p>
 
 ## Features
 
@@ -51,24 +54,19 @@ If you own an untested device (?), please let us know of messenger pro compatibi
 
 ## Installation Instuctions
 
-See the [wiki](https://gist.github.com/Terrariadlc/5c5b551583f4965d6d5ce5938e5e26c3)
+Check the installation [guide](https://gist.github.com/Terrariadlc/5c5b551583f4965d6d5ce5938e5e26c3)
 
 ## Telegram Support
 
-Have any questions ? Ask me on [telegram](https://t.me/MProSupport)
-
-## Support the developer
-
-Your support will encourage me to continue refining and expanding Messenger Pro furthermore!
-
-[Patreon Page]([patreon.com/**AminGuermazi**](https://patreon.com/AminGuermazi))
-
+Have any questions ? Ask on [Telegram](https://t.me/MProSupport)
 
 
 ## Credits
 
+- [Mino260806](https://github.com/Mino260806) : original developer of the mod
+
+- [Loukious](https://github.com/Loukious) : for updating the mod
+
 - [LSPosed Team](https://github.com/LSPosed/LSPosed) : for their amazing LSPosed framework along with LSPatch
 
 - [NeonOrbit](https://github.com/NeonOrbit) : for developing [Dexplore](https://github.com/NeonOrbit/Dexplore), [MRVPatcher](https://github.com/NeonOrbit/MRVPatchManager), and for his outstanding support
-
-- [Loukious](https://github.com/Loukious) : for updating the mod
