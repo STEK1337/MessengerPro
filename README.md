@@ -6,7 +6,8 @@
 <p align="center">providing a comprehensive set of features that take your messaging experience to the next level 🚀
 
 <p align="center">
-  <img width="260" height="260" src="https://i.ibb.co/NtLmhrC/ic-launcher-playstore.png">
+  <img width="260" height="260" src="![image](https://github.com/STEK1337/MessengerPro/assets/118012196/75bec79b-eaa6-42b2-ad81-ba8e2b70aa83)
+">
 </p>
 
 ## Features
