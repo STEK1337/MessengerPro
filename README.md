@@ -6,7 +6,7 @@
 <p align="center">providing a comprehensive set of features that take your messaging experience to the next level 🚀
 
 <p align="center">
-  <img width="260" height="260" src="![image](https://github.com/STEK1337/MessengerPro/assets/118012196/75bec79b-eaa6-42b2-ad81-ba8e2b70aa83)
+  <img width="760" height="460" src="https://i.ibb.co/HXpDKn3/photo-2024-01-21-10-17-53.jpg"
 ">
 </p>
 
