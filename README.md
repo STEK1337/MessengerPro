@@ -20,13 +20,9 @@
 
 - Make use of powerful commands (define words, search wikipedia, send empty message)
 
-- Attach any file format
-
-- Lock certain conversations with fingerprint
+- Bypass file size limit
 
 - Use default camera app instead of messenger integrated camera
-
-- Is a <ins>Tasker Plugin</ins> which adds useful events (message received, typing indicator received, ...) and exclusive actions (send message, react to message, ...)
 
 - ... Be Pro 😎
 
