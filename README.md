@@ -30,8 +30,3 @@
 ## Telegram Support
 
 Have any questions ? Ask on [Telegram](https://t.me/apkmoddone_chat)
-
-
-## Credits
-
-- [ApkModDone](https://www.apkmoddone.com/)
